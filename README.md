@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jansen-Lin
-- 👀 I’m interested in quantitative trading, algorithmic trading, data science, data analytics, environmental sustainability and more!
+- 👀 I’m interested in quantitative trading, algorithmic trading, data science, data analytics, machine learning, artificial intelligence, environmental sustainability and more!
 - 🌱 I’m currently learning everything whenever I can!!
 - 💞️ I’m looking to collaborate on ... (still thinking about this)
 - 📫 How to reach me ... will let you know ;)
