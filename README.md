@@ -1,46 +1,85 @@
-# Welcome to Jansen Lin's Repository!
+# __Welcome to Jansen Lin's Repository!__
 
-## Master Categories
+## __Master Categories__
 
 | | | | 
 |-|-|-|
 |A.|[Jansen's Original Projects](#jansens-original-projects)| Original Works from Jansen :smiley: |
 |B.|[Exploration & Learning](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
-|C.|[Reference Materials](#reference-materials)| Content Summaries, Code and Commands Cheatsheats, etc. |
-|D.|[Git Cloned Repos](#git-cloned-repos)| I git cloned them. |
-|E.|[Forked Repos](#forked-repos)| I forked them. |
-|F.|[Yet to be categorised](#yet-to-be-categorised)|Give me some time to think about where they belong.|
+|C.|[Forked Repos](#forked-repos)| I forked them. |
+|D.|[Reference Materials](#reference-materials)| Content Summaries, Code and Commands Cheatsheats, etc. |
+|E.|[Yet to be categorised](#yet-to-be-categorised)|Give me some time to think about where they belong.|
 
 ## Jansen's Original Projects
 
 |Project Name|Categories|Status|
 |---------|----------|------|
-|[IOU-based Layout Matching Algorithm]()|Pattern Matching<br>|awaits translation and refactoring|
-
-
-
-
-## Exploration & Learning
-
-|Repo Name|Categories|Status|
-|---------|----------|------|
+|[IOU-based Layout Matching Algorithm]()|Pattern Matching<br>|To be adapted from the gitlab repo.|
 
 
 ## Reference Materials
 
+|Repo Name|Description|Status|
+|---------|-----------|------|
+|[Useful_Links](https://github.com/Jansen-Lin/Useful_Links)|-|Private|
 
-## Git Cloned Repos
 
+## Exploration & Learning
 
+|Repo Name|Description|Status|
+|---------|-----------|------|
+|[Macroeconomics-Analysis](https://github.com/Jansen-Lin/Macroeconomics-Analysis)|-|Private|
+|[Trading-Personal-Project](https://github.com/Jansen-Lin/Trading-Personal-Project)|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
 
 ## Forked Repos
 
 |Repo Name|Forked from|
 |---------|-----------|
-|[Jansen-Lin/whisper](https://github.com/Jansen-Lin/whisper)|[openai/whisper](https://github.com/openai/whisper)|
+|[whisper](https://github.com/Jansen-Lin/whisper)|[openai/whisper](https://github.com/openai/whisper)|
+|[cocoapi](https://github.com/Jansen-Lin/cocoapi)|[cocodataset/cocoapi](https://github.com/cocodataset/cocoapi)|
+|[COCO-dataset-explorer](https://github.com/Jansen-Lin/COCO-dataset-explorer)|[i008/COCO-dataset-explorer](https://github.com/i008/COCO-dataset-explorer)|
+|[pydata-book](https://github.com/Jansen-Lin/pydata-book)|[wesm/pydata-book](https://github.com/wesm/pydata-book)|
+|[TensorFlow](https://github.com/Jansen-Lin/TensorFlow)|[romeokienzler/TensorFlow](https://github.com/romeokienzler/TensorFlow)|
+|[Megatron-LM](https://github.com/Jansen-Lin/Megatron-LM)|[NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|
+|[Jansen-Lin/aiap](https://github.com/Jansen-Lin/aiap)|[lylin17/aiap](https://github.com/lylin17/aiap)|
+|[yolov5](https://github.com/Jansen-Lin/yolov5)|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|
+|[best-of-streamlit](https://github.com/Jansen-Lin/best-of-streamlit)|[jrieke/best-of-streamlit](https://github.com/jrieke/best-of-streamlit)|
+|[object-detection-app](https://github.com/Jansen-Lin/object-detection-app)|[robmarkcole/object-detection-app](https://github.com/robmarkcole/object-detection-app)|
+|[ML_from_Scratch](https://github.com/Jansen-Lin/ML_from_Scratch)|[Suji04/ML_from_Scratch](https://github.com/Suji04/ML_from_Scratch)|
+|[pytorch-tute](https://github.com/Jansen-Lin/pytorch-tute)|[sachithdickwella/pytorch-tute](https://github.com/sachithdickwella/pytorch-tute)|
+|[]()|[]()|
+|[]()|[]()|
+|[]()|[]()|
+|[]()|[]()|
+|[]()|[]()|
 
 
 ## Yet to be categorised
+
+|Repo Name|Description|Status|
+|---------|-----------|------|
+|[anaconda_scripts](https://github.com/Jansen-Lin/anaconda_scripts)|Tutorial for different languages|Private|
+|[desktop-tutorial](https://github.com/Jansen-Lin/desktop-tutorial)||Private|
+|[demo_test1_1](https://github.com/Jansen-Lin/demo_test1_1)|-|Private|
+|[demo-repo](https://github.com/Jansen-Lin/demo-repo)|-|Private|
+|[demo_test1](https://github.com/Jansen-Lin/demo_test1)|-|Private|
+|[demo_test](https://github.com/Jansen-Lin/demo_test)|-|Private|
+|[testrepo](https://github.com/Jansen-Lin/testrepo)|-|Private|
+|[hello-world](https://github.com/Jansen-Lin/hello-world)|-|Private|
+|[Learn_README](https://github.com/Jansen-Lin/Learn_README)|Test out README for AIAP tech assessment.|Private|
+|[Git-and-GitHib-for-Beginners-Crash-Course](https://github.com/Jansen-Lin/Git-and-GitHib-for-Beginners-Crash-Course)|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
+|[]()|-|Private|
 
 <!-- ## Data Analytics / Data Science / Machine Learning / Artificial Intelligence
 
