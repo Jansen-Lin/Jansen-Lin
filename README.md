@@ -6,22 +6,15 @@
 |-|-|-|
 |A.|[Jansen's Original Projects](#jansens-original-projects)| Original Works from Jansen :smiley: |
 |B.|[Exploration & Learning](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
-|C.|[Forked Repos](#forked-repos)| I forked them. |
-|D.|[Reference Materials](#reference-materials)| Content Summaries, Code and Commands Cheatsheats, etc. |
-|E.|[Yet to be categorised](#yet-to-be-categorised)|Give me some time to think about where they belong.|
+|C.|[Reference Materials](#reference-materials)| Content Summaries, Code and Commands Cheatsheats, etc. |
+|D.|[Forked Repos](#forked-repos)| I forked them. |
+
 
 ## Jansen's Original Projects
 
 |Project Name|Categories|Status|
 |---------|----------|------|
-|[IOU-based Layout Matching Algorithm]()|Pattern Matching<br>|To be adapted from the gitlab repo.|
-
-
-## Reference Materials
-
-|Repo Name|Description|Status|
-|---------|-----------|------|
-|[Useful_Links](https://github.com/Jansen-Lin/Useful_Links)|-|Private|
+|[Layout Matching Algorithm]()|Pattern Matching<br>| Still in Planning |
 
 
 ## Exploration & Learning
@@ -30,13 +23,12 @@
 |---------|-----------|------|
 |[Macroeconomics-Analysis](https://github.com/Jansen-Lin/Macroeconomics-Analysis)|-|Private|
 |[Trading-Personal-Project](https://github.com/Jansen-Lin/Trading-Personal-Project)|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
+
+## Reference Materials
+
+|Repo Name|Description|Status|
+|---------|-----------|------|
+|[Useful_Links](https://github.com/Jansen-Lin/Useful_Links)|-|Private|
 
 ## Forked Repos
 
@@ -56,30 +48,7 @@
 |[pytorch-tute](https://github.com/Jansen-Lin/pytorch-tute)|[sachithdickwella/pytorch-tute](https://github.com/sachithdickwella/pytorch-tute)|
 |[]()|[]()|
 |[]()|[]()|
-|[]()|[]()|
-|[]()|[]()|
-|[]()|[]()|
 
-
-## Yet to be categorised
-
-|Repo Name|Description|Status|
-|---------|-----------|------|
-|[anaconda_scripts](https://github.com/Jansen-Lin/anaconda_scripts)|Tutorial for different languages|Private|
-|[desktop-tutorial](https://github.com/Jansen-Lin/desktop-tutorial)||Private|
-|[demo_test1_1](https://github.com/Jansen-Lin/demo_test1_1)|-|Private|
-|[demo-repo](https://github.com/Jansen-Lin/demo-repo)|-|Private|
-|[demo_test1](https://github.com/Jansen-Lin/demo_test1)|-|Private|
-|[demo_test](https://github.com/Jansen-Lin/demo_test)|-|Private|
-|[testrepo](https://github.com/Jansen-Lin/testrepo)|-|Private|
-|[hello-world](https://github.com/Jansen-Lin/hello-world)|-|Private|
-|[Learn_README](https://github.com/Jansen-Lin/Learn_README)|Test out README for AIAP tech assessment.|Private|
-|[Git-and-GitHib-for-Beginners-Crash-Course](https://github.com/Jansen-Lin/Git-and-GitHib-for-Beginners-Crash-Course)|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
-|[]()|-|Private|
 
 <!-- ## Data Analytics / Data Science / Machine Learning / Artificial Intelligence
 
