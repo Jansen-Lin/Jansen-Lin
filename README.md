@@ -2,7 +2,7 @@
 
 ## __Master Categories__
 
-| | | | 
+|<!-- --> |<!-- --> |<!-- --> | 
 |-|-|-|
 |A.|[Jansen's Original Projects](#jansens-original-projects)| Original Works from Jansen :smiley: |
 |B.|[Exploration & Learning](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
