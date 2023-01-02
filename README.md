@@ -46,8 +46,8 @@
 |[object-detection-app](https://github.com/Jansen-Lin/object-detection-app)|[robmarkcole/object-detection-app](https://github.com/robmarkcole/object-detection-app)|
 |[ML_from_Scratch](https://github.com/Jansen-Lin/ML_from_Scratch)|[Suji04/ML_from_Scratch](https://github.com/Suji04/ML_from_Scratch)|
 |[pytorch-tute](https://github.com/Jansen-Lin/pytorch-tute)|[sachithdickwella/pytorch-tute](https://github.com/sachithdickwella/pytorch-tute)|
-|[]()|[]()|
-|[]()|[]()|
+<!-- |[]()|[]()|
+|[]()|[]()| -->
 
 
 <!-- ## Data Analytics / Data Science / Machine Learning / Artificial Intelligence
