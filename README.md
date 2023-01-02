@@ -1,8 +1,6 @@
 # __Welcome to Jansen Lin's Repository!__
 
-## __Master Categories__
-
-|<!-- --> |<!-- --> |<!-- --> | 
+|<!-- --> |Master Categories | Descriptions | 
 |-|-|-|
 |A.|[Jansen's Original Projects](#jansens-original-projects)| Original Works from Jansen :smiley: |
 |B.|[Exploration & Learning](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
@@ -14,21 +12,20 @@
 
 |Project Name|Categories|Status|
 |---------|----------|------|
-|[Layout Matching Algorithm]()|Pattern Matching<br>| Still in Planning |
+|[Layout Matching Algorithm](https://github.com/Jansen-Lin/layout-matching-algo)|Pattern Matching<br>| Still in Planning |
 
 
 ## Exploration & Learning
 
 |Repo Name|Description|Status|
 |---------|-----------|------|
-|[Macroeconomics-Analysis](https://github.com/Jansen-Lin/Macroeconomics-Analysis)|-|Private|
-|[Trading-Personal-Project](https://github.com/Jansen-Lin/Trading-Personal-Project)|-|Private|
+|[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via datacamp| Repo just created. |
 
 ## Reference Materials
 
 |Repo Name|Description|Status|
 |---------|-----------|------|
-|[Useful_Links](https://github.com/Jansen-Lin/Useful_Links)|-|Private|
+|-|-|-|
 
 ## Forked Repos
 
