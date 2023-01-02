@@ -15,7 +15,7 @@
 |B.|[🤝 Collaborative Projects](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
 |C.|[🔎 Exploration & Learning](#exploration--learning)| Fresh Ideas, Test bedding, Tutorials, Courses. |
 |D.|[Reference Materials](#reference-materials)| Content Summaries, Code and Commands Cheatsheats, etc. |
-|E.|[Forked Repos for Exploration](#forked-repos)| Repos I forked for exploration. |
+|E.|[Forked Repos for Exploration](#forked-repos)| Repos I forked for exploration & Learning |
 
 
 ## 🧠 Jansen's Original Projects
@@ -28,7 +28,7 @@
 
 |Project Name|Description|Status|
 |---------|----------|------|
-|-|-|-|
+|Litter Dectection with YOLOv5 & TACO Dataset()| This is a mini-project to help improve AI Singapore's workflow and welfare. The model is trained using the open-source YOLOv5 project from Ultralytics while the dataset is a subset of the TACO dataset| Private. Will be made public soon.|
 
 
 ## 🔎 Exploration & Learning
