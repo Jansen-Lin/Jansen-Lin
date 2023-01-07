@@ -28,20 +28,22 @@
 
 |Project Name|Description|Status|
 |---------|----------|------|
-|[Litter Dectection with YOLOv5 & TACO Dataset]()| This is a mini-project done during the final week of the deepskilling phase as part of the AISG's to help improve AI Singapore's workflow and welfare. The model is trained using the open-source YOLOv5 project from Ultralytics while the dataset is a subset of the TACO dataset. | Private. Will be made public soon.|
+|[Litter Dectection with YOLOv5 & TACO Dataset]()| This is a mini-project done during the final week of the deepskilling phase as part of the AISG's to help improve AI Singapore's workflow and welfare. The model is trained using the open-source YOLOv5 object detection model from Ultralytics while the dataset is a subset of the [TACO](http://tacodataset.org/) dataset, which is an open image dataset of waste in the wild. | Private. Will be made public soon.|
 
 
 ## 🔎 Exploration & Learning
 
 |Repo Name|Description|Status|
 |---------|-----------|------|
-|[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via datacamp's guide | public |
+|[test_bed_repo](https://github.com/Jansen-Lin/test_bed_repo)|Repo for quick and dirty test bedding of new ideas, new codes, anything useful and interesting, or anything i learnt off youtube, articles, ChatGPT, etc. Mainly notebooks will be used as it is great for visualisation and learning, but there is really no limits here. :) | Public |
+|[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via datacamp's guide. | Public |
 
 ## 📑 Reference Materials
 
 |Repo Name|Description|Status|
 |---------|-----------|------|
 |[ai-practitioner-handbook](https://github.com/Jansen-Lin/ai-practitioner-handbook/tree/main)|AI Practitioner Handbook <br>https://aisingapore.github.io/ai-practitioner-handbook/|-|
+|[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection)|Cheat sheet for emoji, which is automatically generated from GitHub Emoji API and Unicode Full Emoji List.|-|
 
 ## 🧭 Forked Repos for Exploration
 
