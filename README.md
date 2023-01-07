@@ -2,7 +2,7 @@
 
 ## 😀 About Me
 
-- I'm an aspiring data analyst/data scientist/ML Engineer/AI Engineer
+- I'm an aspiring data analyst/data scientist/ML Engineer/AI Engineer.
 - I hope to harness the power of data science, machine learning, and artificial intelligence, to bring positive impact to the world.
 - I'm really excited about the developments in these fields and I believe that dabbling into them can greatly empower me to find solutions to the myraids of problems that we are facing today.
 
@@ -22,7 +22,7 @@
 
 |Project Name|Description|Status|
 |---------|----------|------|
-|[IOU-based Layout Matching Algorithm](https://github.com/Jansen-Lin/layout-matching-algo)| I created the IOU-based Layout Matching Algorithm as part of a 7 month computer vision project co-sponsored by AI Singapore & Continental (our client). The concept of IOU (Intersection Over Union), forms the foundation of this algorithm. I was able to achieve accuracy of over 98% on our Client's dataset, which was comparable, if not better than that of the state-of-the-art ML algorithms (self-supervised learning algorithms). Due to the Research Collaboration Agreement (RCA), I am not able to reproduce the work that was done. <br>| Private |
+|[IOU-based Layout Matching Algorithm](https://github.com/Jansen-Lin/layout-matching-algo)| I created the IOU-based Layout Matching Algorithm as part of a 7 month computer vision project co-sponsored by AI Singapore (AISG) & Continental (our client). The concept of IOU (Intersection Over Union), forms the foundation of this custom algorithm. I was able to achieve layout matching accuracy of over 98% on our Client's dataset, which was comparable, if not better than that of the state-of-the-art ML algorithms (self-supervised learning algorithms). Due to the Research Collaboration Agreement (RCA) signed between AISG & Continental, I am not able to reproduce the work that was done and publish on GitHub. <br>| Private |
 
 ## 🤝 Collaborative Projects
 
@@ -36,7 +36,7 @@
 |Repo Name|Description|Status|
 |---------|-----------|------|
 |[test_bed_repo](https://github.com/Jansen-Lin/test_bed_repo)|Repo for quick and dirty test bedding of new ideas, new codes, anything useful and interesting, or anything i learnt off youtube, articles, ChatGPT, etc. Mainly notebooks will be used as it is great for visualisation and learning, but there is really no limits here. :) | Public |
-|[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via datacamp's guide. | Public |
+|[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via [DataCamp's guide](https://www.datacamp.com/tutorial/streamlit). | Public |
 
 ## 📑 Reference Materials
 
