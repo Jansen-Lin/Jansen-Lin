@@ -5,7 +5,8 @@
 - I'm an aspiring data analyst/data scientist/ML Engineer/AI Engineer.
 - I hope to harness the power of data science, machine learning, and artificial intelligence, to bring positive impact to the world.
 - I'm really excited about the developments in these fields and I believe that dabbling into them can greatly empower me to find solutions to the myraids of problems that we are facing today.
-- Connect with me at:
+
+Connect with me at:
     </a>
     <a href="https://www.linkedin.com/in/jansen-lin-jx/">
     <img height="30" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
