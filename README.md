@@ -6,14 +6,14 @@
 - I hope to harness the power of data science, machine learning, and artificial intelligence, to bring positive impact to the world.
 - I'm really excited about the developments in these fields and I believe that dabbling into them can greatly empower me to find solutions to the myraids of problems that we are facing today.
 
-    </a>
-    <a href="https://www.linkedin.com/in/jansen-lin-jx/">
-    <img height="30" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-    </a>
-    Connect with me at Linkedin!
-    <!-- <a href="https://medium.com/@linjansen91">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-    </a> -->
+</a>
+<a href="https://www.linkedin.com/in/jansen-lin-jx/">
+<img height="30" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+Connect with me at Linkedin!
+<!-- <a href="https://medium.com/@linjansen91">
+<img height="40" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+</a> -->
 
 
 ## 📔 Master Table of Contents
