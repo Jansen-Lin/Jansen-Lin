@@ -39,7 +39,7 @@ Connect with me at Linkedin!
 
 |Project Name|Description|Status|
 |---------|----------|------|
-|[Litter Dectection with YOLOv5 & TACO Dataset](https://github.com/Jansen-Lin/aiap-team1-litter-detection)| This is a mini-project done during the final week of the deepskilling phase as part of the [AI apprenticeship programme (AIAP)](https://aisingapore.org/innovation/aiap/), with the aim to improve AI Singapore's workflow and welfare. The object detection model is trained using the open-source YOLOv5 object detection model from Ultralytics, on a subset of the [TACO](http://tacodataset.org/) dataset, which is an open image dataset of waste in the wild. | Private. Will be made public soon.|
+|[Litter Dectection with YOLOv5 & TACO Dataset](https://github.com/Jansen-Lin/aiap-team1-litter-detection)| This is a mini-project done during the final week of the deepskilling phase as part of the [AI apprenticeship programme (AIAP)](https://aisingapore.org/innovation/aiap/), with the aim to improve AI Singapore's workflow and welfare. The object detection model is trained using the open-source YOLOv5 object detection model from Ultralytics, on a subset of the [TACO](http://tacodataset.org/) dataset, which is an open image dataset of waste in the wild. | Public |
 
 
 ## 🔎 Exploration & Learning
