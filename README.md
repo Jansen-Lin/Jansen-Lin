@@ -9,10 +9,12 @@
 Connect with me at Linkedin!
 </a>
 <a href="https://www.linkedin.com/in/jansen-lin-jx/">
-<img height="20" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<img height="25" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<!-- <a href="https://medium.com/@linjansen91">
-<img height="40" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+
+<!-- Follow me at Medium! 
+<a href="https://medium.com/@linjansen91">
+<img height="25" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a> -->
 
 
@@ -37,7 +39,7 @@ Connect with me at Linkedin!
 
 |Project Name|Description|Status|
 |---------|----------|------|
-|[Litter Dectection with YOLOv5 & TACO Dataset](https://github.com/Jansen-Lin/aiap-team1-litter-detection)| This is a mini-project done during the final week of the deepskilling phase as part of the AISG's to help improve AI Singapore's workflow and welfare. The model is trained using the open-source YOLOv5 object detection model from Ultralytics while the dataset is a subset of the [TACO](http://tacodataset.org/) dataset, which is an open image dataset of waste in the wild. | Private. Will be made public soon.|
+|[Litter Dectection with YOLOv5 & TACO Dataset](https://github.com/Jansen-Lin/aiap-team1-litter-detection)| This is a mini-project done during the final week of the deepskilling phase as part of the [AI apprenticeship programme (AIAP)](https://aisingapore.org/innovation/aiap/), with the aim to improve AI Singapore's workflow and welfare. The object detection model is trained using the open-source YOLOv5 object detection model from Ultralytics, on a subset of the [TACO](http://tacodataset.org/) dataset, which is an open image dataset of waste in the wild. | Private. Will be made public soon.|
 
 
 ## 🔎 Exploration & Learning
