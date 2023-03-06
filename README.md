@@ -66,7 +66,6 @@ Connect with me at Linkedin!
 |[pydata-book](https://github.com/Jansen-Lin/pydata-book)|[wesm/pydata-book](https://github.com/wesm/pydata-book)|
 |[TensorFlow](https://github.com/Jansen-Lin/TensorFlow)|[romeokienzler/TensorFlow](https://github.com/romeokienzler/TensorFlow)|
 |[Megatron-LM](https://github.com/Jansen-Lin/Megatron-LM)|[NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|
-|[Jansen-Lin/aiap](https://github.com/Jansen-Lin/aiap)|[lylin17/aiap](https://github.com/lylin17/aiap)|
 |[yolov5](https://github.com/Jansen-Lin/yolov5)|[ultralytics/yolov5](https://github.com/ultralytics/yolov5)|
 |[best-of-streamlit](https://github.com/Jansen-Lin/best-of-streamlit)|[jrieke/best-of-streamlit](https://github.com/jrieke/best-of-streamlit)|
 |[object-detection-app](https://github.com/Jansen-Lin/object-detection-app)|[robmarkcole/object-detection-app](https://github.com/robmarkcole/object-detection-app)|
