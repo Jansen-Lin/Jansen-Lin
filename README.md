@@ -48,7 +48,7 @@ Connect with me at Linkedin!
 |---------|-----------|------|
 |[test_bed_repo](https://github.com/Jansen-Lin/test_bed_repo)|Repo for quick and dirty test bedding of new ideas, new codes, anything useful and interesting, or anything i learnt off youtube, articles, ChatGPT, etc. Mainly notebooks will be used as it is great for visualisation and learning, but there is really no limits here. :) | Public |
 |[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via [DataCamp's guide](https://www.datacamp.com/tutorial/streamlit). | Public |
-|[learn-python](https://github.com/Jansen-Lin/learn-python) | WORK IN PROGRESS. A quick & easy  reference for basic python syntax & operations.| Public |
+|[learn-python](https://github.com/Jansen-Lin/learn-python) | A quick & easy  reference for basic python syntax & operations. (WORK IN PROGRESS. Will be shifted to the "Reference Materials Section" once reasonably completed)| Public |
 
 ## 📑 Reference Materials
 
