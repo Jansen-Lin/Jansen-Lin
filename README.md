@@ -33,9 +33,9 @@ Connect with me at Linkedin!
 
 <table>
   <tr>
-    <th style="width: 20%">Project Name</th>
-    <th style="width: 70%">Description</th>
-    <th style="width: 10%">Status</th>
+    <th style="width: 100px">Project Name</th>
+    <th style="width: 500px">Description</th>
+    <th style="width: 50px">Status</th>
   </tr>
     <tr>
       <td><a href="https://github.com/Jansen-Lin/layout-matching-algo">IOU-based Layout Matching Algorithm</a></td>
