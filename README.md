@@ -102,10 +102,28 @@ Connect with me at Linkedin!
 
 ## 📑 Reference Materials
 
-|Repo Name|Description|Status|
+<table>
+  <tr>
+    <th style="width: 100px">Repo Name</th>
+    <th style="width: 400px">Description</th>
+    <th style="width: 80px">Status</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Jansen-Lin/ai-practitioner-handbook/tree/main">ai-practitioner-handbook</a></td>
+        <td>AI Practitioner Handbook <br>https://aisingapore.github.io/ai-practitioner-handbook/</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection">emoji-cheat-sheet</a></td>
+        <td>Cheat sheet for emoji, which is automatically generated from GitHub Emoji API and Unicode Full Emoji List.</td>
+        <td>-</td>
+    </tr>
+</table>
+
+<!-- |Repo Name|Description|Status|
 |---------|-----------|------|
 |[ai-practitioner-handbook](https://github.com/Jansen-Lin/ai-practitioner-handbook/tree/main)|AI Practitioner Handbook <br>https://aisingapore.github.io/ai-practitioner-handbook/|-|
-|[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection)|Cheat sheet for emoji, which is automatically generated from GitHub Emoji API and Unicode Full Emoji List.|-|
+|[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection)|Cheat sheet for emoji, which is automatically generated from GitHub Emoji API and Unicode Full Emoji List.|-| -->
 
 ## 🧭 Forked Repos for Exploration
 
