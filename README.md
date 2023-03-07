@@ -110,7 +110,7 @@ Connect with me at Linkedin!
     </tr>
     <tr>
         <td><a href="https://github.com/Jansen-Lin/ai-practitioner-handbook/tree/main">ai-practitioner-handbook</a></td>
-        <td>AI Practitioner Handbook <br>https://aisingapore.github.io/ai-practitioner-handbook/</td>
+        <td>AI Practitioner Handbook <br><a href="https://aisingapore.github.io/ai-practitioner-handbook/">https://aisingapore.github.io/ai-practitioner-handbook/</a></td>
         <td>-</td>
     </tr>
     <tr>
