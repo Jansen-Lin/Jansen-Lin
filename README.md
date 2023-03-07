@@ -52,9 +52,9 @@ Connect with me at Linkedin!
 
 <table>
   <tr>
-    <th style="width: 20%">Project Name</th>
-    <th style="width: 70%">Description</th>
-    <th style="width: 10%">Status</th>
+    <th style="width: 100px">Project Name</th>
+    <th style="width: 500px">Description</th>
+    <th style="width: 50px">Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Jansen-Lin/aiap-team1-litter-detection">Litter Detection with YOLOv5 & TACO Dataset</a></td>
@@ -73,9 +73,9 @@ Connect with me at Linkedin!
 
 <table>
   <tr>
-    <th style="width: 20%">Repo Name</th>
-    <th style="width: 70%">Description</th>
-    <th style="width: 10%">Status</th>
+    <th style="width: 100px">Repo Name</th>
+    <th style="width: 500px">Description</th>
+    <th style="width: 50px">Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Jansen-Lin/test_bed_repo">test_bed_repo</a></td>
