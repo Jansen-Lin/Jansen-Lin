@@ -34,8 +34,8 @@ Connect with me at Linkedin!
 <table>
   <tr>
     <th style="width: 100px">Project Name</th>
-    <th style="width: 500px">Description</th>
-    <th style="width: 50px">Status</th>
+    <th style="width: 400px">Description</th>
+    <th style="width: 80px">Status</th>
   </tr>
     <tr>
       <td><a href="https://github.com/Jansen-Lin/layout-matching-algo">IOU-based Layout Matching Algorithm</a></td>
@@ -53,8 +53,8 @@ Connect with me at Linkedin!
 <table>
   <tr>
     <th style="width: 100px">Project Name</th>
-    <th style="width: 500px">Description</th>
-    <th style="width: 50px">Status</th>
+    <th style="width: 400px">Description</th>
+    <th style="width: 80px">Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Jansen-Lin/aiap-team1-litter-detection">Litter Detection with YOLOv5 & TACO Dataset</a></td>
@@ -74,8 +74,8 @@ Connect with me at Linkedin!
 <table>
   <tr>
     <th style="width: 100px">Repo Name</th>
-    <th style="width: 500px">Description</th>
-    <th style="width: 50px">Status</th>
+    <th style="width: 400px">Description</th>
+    <th style="width: 80px">Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Jansen-Lin/test_bed_repo">test_bed_repo</a></td>
