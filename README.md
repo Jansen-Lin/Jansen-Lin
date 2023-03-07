@@ -44,11 +44,36 @@ Connect with me at Linkedin!
 
 ## 🔎 Exploration & Learning
 
-|Repo Name|Description|Status|
+<!-- |Repo Name|Description|Status|
 |---------|-----------|------|
 |[test_bed_repo](https://github.com/Jansen-Lin/test_bed_repo)|Repo for quick and dirty test bedding of new ideas, new codes, anything useful and interesting, or anything i learnt off youtube, articles, ChatGPT, etc. Mainly notebooks will be used as it is great for visualisation and learning, but there is really no limits here. :) | Public |
 |[streamlit-datacamp](https://github.com/Jansen-Lin/streamlit-datacamp)|To explore streamlit via [DataCamp's guide](https://www.datacamp.com/tutorial/streamlit). | Public |
-|[learn-python](https://github.com/Jansen-Lin/learn-python) | A quick & easy  reference for basic python syntax & operations. (WORK IN PROGRESS. Will be shifted to the "Reference Materials Section" once reasonably completed)| Public |
+|[learn-python](https://github.com/Jansen-Lin/learn-python) | A quick & easy  reference for basic python syntax & operations. (WORK IN PROGRESS. Will be shifted to the "Reference Materials Section" once reasonably completed)| Public | -->
+
+<table>
+  <tr>
+    <th style="width: 10%">Repo Name</th>
+    <th style="width: 70%">Description</th>
+    <th style="width: 10%">Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jansen-Lin/test_bed_repo">test_bed_repo</a></td>
+    <td>Repo for quick and dirty test bedding of new ideas, new codes, anything useful and interesting, or anything i learnt off youtube, articles, ChatGPT, etc. Mainly notebooks will be used as it is great for visualisation and learning, but there is really no limits here. :) </td>
+    <td>Public</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jansen-Lin/streamlit-datacamp">streamlit-datacamp</a></td>
+    <td>To explore streamlit via <a href="https://www.datacamp.com/tutorial/streamlit">DataCamp's guide</a>.</td>
+    <td>Public</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jansen-Lin/learn-python">learn-python</a></td>
+    <td>A quick & easy reference for basic python syntax & operations. (WORK IN PROGRESS. Will be shifted to the "Reference Materials Section" once reasonably completed)</td>
+    <td>Public</td>
+  </tr>
+</table>
+
+
 
 ## 📑 Reference Materials
 
