@@ -57,6 +57,9 @@ Connect with me at Linkedin!
 |---------|-----------|------|
 |[ai-practitioner-handbook](https://github.com/Jansen-Lin/ai-practitioner-handbook/tree/main)|AI Practitioner Handbook <br>https://aisingapore.github.io/ai-practitioner-handbook/|-|
 |[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-affection)|Cheat sheet for emoji, which is automatically generated from GitHub Emoji API and Unicode Full Emoji List.|-|
+|[Complete-Data-Structures-and-Algorithms](https://github.com/Jansen-Lin/Complete-Data-Structures-and-Algorithms)|A comprehensive source of materials for data structures and algorithms. | - |
+|[From-0-to-Research-Scientist-resources-guide](https://github.com/Jansen-Lin/From-0-to-Research-Scientist-resources-guide)|This guide is designated to anybody with basic programming knowledge or a computer science background interested in becoming a Research Scientist with 🎯 on Deep Learning and NLP.| - |
+|[ng-video-lecture](https://github.com/Jansen-Lin/ng-video-lecture)|A course by Andrej Karpathy on building neural networks, from scratch, in code: <br> https://karpathy.ai/zero-to-hero.html | - |
 
 
 ## 🧭 Forked Repos for Exploration
@@ -75,8 +78,22 @@ Connect with me at Linkedin!
 |[ML_from_Scratch](https://github.com/Jansen-Lin/ML_from_Scratch)|[Suji04/ML_from_Scratch](https://github.com/Suji04/ML_from_Scratch)|
 |[pytorch-tute](https://github.com/Jansen-Lin/pytorch-tute)|[sachithdickwella/pytorch-tute](https://github.com/sachithdickwella/pytorch-tute)|
 |[dask-tutorial](https://github.com/Jansen-Lin/dask-tutorial)|[dask/dask-tutorial](https://github.com/dask/dask-tutorial)|
-|[]()|[]()|
-
+|[Live-Time-Series](https://github.com/Jansen-Lin/Live-Time-Series)|[krishnaik06/Live-Time-Series](https://github.com/krishnaik06/Live-Time-Series)|
+|[ml-project-cookiecutter-gcp](https://github.com/Jansen-Lin/ml-project-cookiecutter-gcp)|[aisingapore/ml-project-cookiecutter-gcp](https://github.com/aisingapore/ml-project-cookiecutter-gcp)|
+|[TMML](https://github.com/Jansen-Lin/TMML)|[GitMarco27/TMML](https://github.com/GitMarco27/TMML) (3 minutes ML tutorials) <br> --> [Useful notebooks](https://github.com/Jansen-Lin/TMML/tree/main/Notebooks) |
+|[ml-basics](https://github.com/Jansen-Lin/ml-basics)|[MicrosoftDocs/ml-basics](https://github.com/MicrosoftDocs/ml-basics)|
+|[deepchecks](https://github.com/Jansen-Lin/deepchecks)|[deepchecks/deepchecks](https://github.com/deepchecks/deepchecks)|
+|[Data-Analyst-Roadmap](https://github.com/Jansen-Lin/Data-Analyst-Roadmap)|[krishnaik06/Data-Analyst-Roadmap](https://github.com/krishnaik06/Data-Analyst-Roadmap)|
+|[whatsapp-viewer](https://github.com/Jansen-Lin/whatsapp-viewer)|[andreas-mausch/whatsapp-viewer](https://github.com/andreas-mausch/whatsapp-viewer)|
+|[example-voting-app-kubernetes](https://github.com/Jansen-Lin/example-voting-app-kubernetes)|[kodekloudhub/example-voting-app-kubernetes](https://github.com/kodekloudhub/example-voting-app-kubernetes)|
+|[kubernetes](https://github.com/Jansen-Lin/kubernetes)|[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)|
+|[certified-kubernetes-administrator-course](https://github.com/Jansen-Lin/certified-kubernetes-administrator-course)|[kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)|
+|[Python-TheNoTheoryGuide](https://github.com/Jansen-Lin/Python-TheNoTheoryGuide)|[iArunava/Python-TheNoTheoryGuide](https://github.com/iArunava/Python-TheNoTheoryGuide)|
+|[lightly](https://github.com/Jansen-Lin/lightly)|[lightly-ai/lightly](https://github.com/lightly-ai/lightly)|
+|[fiftyone](https://github.com/Jansen-Lin/fiftyone)|[voxel51/ffityone](https://github.com/voxel51/fiftyone)|
+|[LabelMeAnnotationTool](https://github.com/Jansen-Lin/LabelMeAnnotationTool)|[CSAILVision/LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool)|
+|[labelme](https://github.com/Jansen-Lin/labelme)|[wkentaro/labelme](https://github.com/wkentaro/labelme)|
+|[datagym-core](https://github.com/Jansen-Lin/datagym-core)|[datagym-ai/datagym-core](https://github.com/datagym-ai/datagym-core)|
 
 <!-- ## Data Analytics / Data Science / Machine Learning / Artificial Intelligence
 
