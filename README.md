@@ -2,7 +2,7 @@
 
 ## 😀 About Me
 
-- I'm an aspiring data engineer/data analyst/data scientist/ML Engineer/AI Engineer.
+- I'm currently a machine learning engineer.
 - I hope to harness the power of data science, machine learning, and artificial intelligence, to bring positive impact to the world.
 - I'm really excited about the developments in these fields and I believe that dabbling into them can greatly empower me to find solutions to the myraids of problems that we are facing today.
 
